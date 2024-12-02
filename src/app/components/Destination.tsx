@@ -12,22 +12,22 @@ const Destination = () => {
 
     const destination: Destination[] = [
         {
-            img: "/img/rome.png",
-            location: "Rome, Italy",
-            amount: "$5.42k",
+            img: "/img/R.png",
+            location: "Char Dham,Utrakhand ",
+            amount: "k",
             days: "10 Days Trip",
             sideImg: ""
         },
         {
-            img: "/img/london.jpg",
-            location: "London, UK",
+            img: "/img/OIP.jpg",
+            location: "Dalhousie, India",
             amount: "$4.2k",
             days: "12 Days Trip",
             sideImg: ""
         },
         {
-            img: "/img/europe.png",
-            location: "Full Europe",
+            img: "/img/nibaku.jpg",
+            location: "Baku,Azerbaijani",
             amount: "$15k",
             days: "28 Days Trip",
             sideImg: "/img/Decore2.png"

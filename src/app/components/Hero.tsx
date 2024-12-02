@@ -13,7 +13,8 @@ const Hero = () => {
                     <Image src="/img/line-decore.png" width={100} height={100} alt="line-decore" className="absolute bottom-2 right-0 w-full" loading="eager" />
                     </span> 
                      and live a new and fulfill life</h1>
-                <p className="text-[14px] text-litegrey font-bold w-full lg:w-[80%] xl:w-[65%] text-center md:text-left special-font" data-aos="fade-up">Built Wicket longer admire do barton vanity itself do in it. Preferred to sportsmen it engrossed listening. Park gate sell they west hard for the</p>
+                <p className="text-[14px] text-litegrey font-bold w-full lg:w-[80%] xl:w-[65%] text-center md:text-left special-font" data-aos="fade-up">For inquiry call on 9925656788</p>
+                
 
                 <div className="flex items-center gap-4 special-font" data-aos="fade-up">
                 <a href="#category" className="py-3 px-5 rounded-md bg-orange text-white text-[14px] font-bold flex items-center">Find Out More</a>

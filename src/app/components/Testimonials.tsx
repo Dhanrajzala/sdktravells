@@ -14,24 +14,24 @@ const Testimonials = () => {
 
     const testimonialsData: TestimonialData[] = [
         {
-            img: "/img/user1.png",
+            img: "/img/joshii.webp",
             review: "“On the Windows talking painted pasture yet its express parties use. Sure last upon he same as knew next. Of believed or diverted no.”",
-            name: "Mike taylor",
-            company: "Lahore, Pakistan",
+            name: "Namit Joshi",
+            company: " Rajasthan",
 
         },
         {
-            img: "/img/user2.png",
+            img: "/img/dvzz.png",
             review: "“This service is a game-changer! I was skeptical at first, but after trying it, I'm hooked. The results were instant, and I couldn't be happier.”",
-            name: "Chris Thomas",
-            company: "CEO of Red Button",
+            name: "Dhanraj Zala",
+            company: "Mehsana",
 
         },
         {
             img: "/img/user3.png",
             review: "“The customer support is also top-notch. They were quick to respond and helped me with any questions I had.”",
-            name: "John Smith",
-            company: "CEO of Energize Your Life Co",
+            name: "SKM",
+            company: "CEO Distorted Vision",
 
         }
     ]

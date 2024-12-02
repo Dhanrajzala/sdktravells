@@ -23,7 +23,7 @@ const Book = () => {
                         <Image src="/img/make.png" width={40} height={40} alt="img"  data-aos="fade-down"/>
                     </div>
                     <div>
-                        <h2 className="text-[16px] text-litegrey font-bold" data-aos="fade-down">Make Payment</h2>
+                        <h2 className="text-[16px] text-litegrey font-bold" data-aos="fade-down">Make Budget</h2>
                         <p className="text-[16px] text-litegrey font-normal max-w-[300px]" data-aos="fade-down">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna, tortor tempus. </p>
                     </div>
                 </div>
@@ -33,7 +33,7 @@ const Book = () => {
                         <Image src="/img/reach.png" width={40} height={40} alt="img"  data-aos="fade-down"/>
                     </div>
                     <div>
-                        <h2 className="text-[16px] text-litegrey font-bold" data-aos="fade-down">Reach Airport on Selected Date</h2>
+                        <h2 className="text-[16px] text-litegrey font-bold" data-aos="fade-down">Reach Airport (&other Transportations) on Selected Date</h2>
                         <p className="text-[16px] text-litegrey font-normal max-w-[300px]" data-aos="fade-down">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna, tortor tempus. </p>
                     </div>
                 </div>
@@ -49,7 +49,7 @@ const Book = () => {
                         <h2 className="text-litedark text-[18px] font-bold">Trip To Greece</h2>
                         <div className="flex items-center gap-2 text-[16px] text-litegrey">
                             <p>14-29 June</p>
-                            <p>by Robbin Joseph</p>
+                            <p>by Namit Joshi</p>
                         </div>
 
                         <div className="flex items-center gap-4">
@@ -80,7 +80,7 @@ const Book = () => {
                                 </div>
                                 <div>
                                     <p className="text-[14px] text-litegrey">Ongoing</p>
-                                    <h2 className="text-[18px] text-litedark font-bold">Trip To Rome</h2>
+                                    <h2 className="text-[18px] text-litedark font-bold">Trip To Thailand</h2>
 
                                     <div>
                                         <p className="text-[14px] text-litedark font-bold">

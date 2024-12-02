@@ -6,21 +6,7 @@ const Sponsors = () => {
     }
 
     const sponsorsLogo : SponsorsLogo[] =[
-        {
-            img: "/img/axon.png",
-        },
-        {
-            img: "/img/jetstar.png",
-        },
-        {
-            img: "/img/expedia.png",
-        },
-        {
-            img: "/img/qantas.png",
-        },
-        {
-            img: "/img/alitalia.png",
-        },
+       
     ]
     return ( 
         <main className="px-[5%] py-[40px] flex items-center justify-center md:justify-between basis-56 flex-wrap gap-6">
